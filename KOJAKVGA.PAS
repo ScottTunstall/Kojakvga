@@ -57,8 +57,6 @@ DISCLAIMER:
 
 Use this unit at your OWN RISK. If your PC dies after using
 KOJAKVGA, don't blame me. KOJAKVGA works fine on my PC.
-(But then again, I would say that, cos if I didn't, no-one
-would use this would they? But it works!)
 }
 
 
