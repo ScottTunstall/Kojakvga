@@ -7,12 +7,10 @@ FILENAME : KOJAKVGA.PAS
 
 AUTHOR   : SCOTT TUNSTALL B.Sc (aka Lt. Kojak)
 
-EMAIL    : tunstals@email.msn.com
-           tunstals@hotmail.com
+EMAIL    : scott.tunstall@ntlworld.com
 
 FINISH   : REV 3.1:  18TH AUGUST 1996 (A lot of bugs were left
-DATE       in this version: You might have it in the SWAG if
-	   you're unlucky!)
+DATE       
 
 	   3.2:  26TH OCTOBER 1996
 
@@ -32,19 +30,6 @@ TESTING  : TESTED ON A INTEL P133 W/ CIRRUS LOGIC 5446 PCI
 
 
 
-
-
-THIS IS PROBABLY THE LAST [TP7] KOJAKVGA YOU WILL SEE.
-I HAVE TAKEN THE DOS VERSION OF KOJAKVGA AS FAR AS IT CAN GO,
-I THINK.
-
-
-IF ANY OF YOU OUT THERE HAVE USED KOJAKVGA IN YOUR OWN
-PROGRAMS, OR EVEN RIPPED MY CODE (lamer! - just kidding)
-THANK YOU.
-
-      Regards,
-              Scott Tunstall.
 
 ****************************************************************
 *)
@@ -177,7 +162,7 @@ end;
   This format STILL can't accommodate shape objects that
   are larger than 255 x 255. What's the point? The VGA screen
   is only 320 x 200, and frankly who needs single sprites that
-  large? (Unless you're Colin Sega)
+  large? 
 
 }
 
